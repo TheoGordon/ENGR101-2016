@@ -1,7 +1,6 @@
-# include < stdio .h >
-
-int main (){
-int number = 100;
-printf ( "%c" , number );
+# include < stdio.h >
+  int main (){
+  int number = 100;
+  printf ( "Yoghurt %d" , number );
 return 0;
 }
